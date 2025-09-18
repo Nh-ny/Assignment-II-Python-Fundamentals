@@ -1,7 +1,7 @@
 # cafe.py
-# Name: Minna Kim
-# Student ID: u1234567
-# Date: 2025-09-17
+# Name: Nayeon Kim
+# Student ID: u3309753
+# Date: 17-09-2025
 
 def show_menu(menu):
     # Print all items, prices, and categories
