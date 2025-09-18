@@ -1,5 +1,5 @@
-# cafe.py
-# Name: Minna Kim
+# classroom.py
+# Name: Nayeon Kim
 # Student ID: u1234567
 # Date: 2025-09-17
 
