@@ -1,7 +1,7 @@
 # classroom.py
 # Name: Nayeon Kim
 # Student ID: u3309753
-# Date: 2025-09-17
+# Date: 17-09-2025
 
 # Room state
 room = {
