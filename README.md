@@ -6,6 +6,6 @@ Each case includes structured steps from problem analysis to Python implementati
 
 ## 🧾 Contents
 
-- [Case Study 1 — Café POS System](./CaseStudy1_CafePOS)
+- [Case Study 1 — Café POS System](./CaseStudy1_CaféCheckout)
 - [Case Study 2 — Smart Classroom Monitor](./CaseStudy2_SmartClassroom)
 - [Case Study 3 — Boolean Circuit Equivalence](./CaseStudy3_BooleanCircuit)
